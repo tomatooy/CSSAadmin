@@ -1,7 +1,7 @@
 # Student Association Admin Portal
 
 ![Admin Portal Logo/Thumbnail](https://cdn.discordapp.com/attachments/940402118953668642/1150282889938874388/image.png)
-![AddPost/Thumbnai](https://cdn.discordapp.com/attachments/940402118953668642/1150282889938874388/image.png)
+![AddPost/Thumbnai](https://media.discordapp.net/attachments/940402118953668642/1150286318274883584/image.png?width=2140&height=1066)
 
 ## About
 
@@ -14,7 +14,7 @@ Main website repo: https://github.com/tomatooy/CSSAUGA
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
+- [Contributor](#contributing)
 
 ## Features
 ### Done:###
@@ -35,7 +35,7 @@ Main website repo: https://github.com/tomatooy/CSSAUGA
 - Database: MongoDB
 - Technologie: Redux, JWT, Mongoose, Vite
 
-## Contributing
+## Contributor
 
 - tomatooy
 
