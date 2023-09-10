@@ -17,13 +17,13 @@ Main website repo: https://github.com/tomatooy/CSSAUGA
 - [Contributor](#contributing)
 
 ## Features
-### Done:###
+### Done:
 - **Post Management**: Create, edit, and delete post, event posts, with live preview.
 - **Gallery Management**: Update website content, such as news gallery,swiper and resources.
 - **Authentication**: Secure login and authentication for administrators with webtoken and redux.
 - **Join Form**: Collect and view the join forms filled by the users.
 
-### To DO:###
+### To DO:
 - **Member Management**: View and manage member profiles, including contact information.
 - **Direct Email**: Send email to members, and event sign-up users.
 - **Dashboard**: A central dashboard displaying key statistics and quick access to important tasks.
