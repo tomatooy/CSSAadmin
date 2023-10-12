@@ -17,7 +17,7 @@ const initialData = {
     contentShow: true
 }
 
-const url = import.meta.env.VITE_REACT_APP_SERVER_URL;
+const url = import.meta.env.REACT_APP_SERVER_URL;
 
 export default function AddPost(props) {
 
