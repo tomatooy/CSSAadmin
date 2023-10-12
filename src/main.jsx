@@ -24,18 +24,18 @@ import AddPost from './screens/AddPost.jsx';
 
 const router = createBrowserRouter(
   createRoutesFromElements(
-      <Route path='/' element={<App />}>
+    <Route path='/' element={<App />}>
       <Route index={true} path='/' element={<HomeScreen />} />
       <Route path='/login' element={<LoginScreen />} />
       <Route path='/register' element={<RegisterScreen />} />
       <Route path='' element={<PrivateRoute />}>
-      <Route path='/profile' element={<ProfileScreen />} />
-      <Route path='/post' element={<PostScreen/>}/>
-      <Route path='/joinus' element={<JoinUsScreen />}/>
-      <Route path='/gallery' element={<GalleryScreen />}/>
-      <Route path='/gallery/add' element={<AddImage />}/>
-      <Route path='/post/add' element={<AddPost type='Add'/>}/>
-      <Route path='/post/edit' element={<AddPost type='Edit'/>}/>
+        <Route path='/profile' element={<ProfileScreen />} />
+        <Route path='/post' element={<PostScreen />} />
+        <Route path='/joinus' element={<JoinUsScreen />} />
+        <Route path='/gallery' element={<GalleryScreen />} />
+        <Route path='/gallery/add' element={<AddImage />} />
+        <Route path='/post/add' element={<AddPost type='Add' />} />
+        <Route path='/post/edit' element={<AddPost type='Edit' />} />
       </Route>
     </Route>
   )
